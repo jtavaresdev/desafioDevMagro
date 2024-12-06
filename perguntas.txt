@@ -1,0 +1,8 @@
+1 - Qual seu nome completo?
+2 - Qual seu email de contato?
+3 - Qual sua idade?
+4 - Qual sua altura?
+5 - Qual o nome de sua mãe?
+6 - Qual o sabor de uma carne de cordeiro?
+7 - Qual seu anime favorito?
+8 - Qual seu maior sonho?
